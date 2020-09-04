@@ -1,2 +1,0 @@
-# AMS
-Airline Mangement System
